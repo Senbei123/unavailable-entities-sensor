@@ -171,3 +171,6 @@ Using the [auto-entities](https://github.com/thomasloven/lovelace-auto-entities)
 *Open Fold Entity Row*
 
 ![Example](https://github.com/jazzyisj/unavailable-entities-sensor/blob/main/images/entities_card_open_example.png)
+
+### Video Tutorials
+You will find a german video tutorial here by Tristans Smartes Heim: https://youtu.be/1jjeN6e3C7E
